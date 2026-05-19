@@ -90,11 +90,8 @@ No newsletters. No algorithms. Just the work.
 ### Stats
 
 <p align="center">
-  <img height="180" src="https://ghstats.dev/api/card?username=AG9898&amp;theme=github_dark&amp;border_color=30363d&amp;title_color=FF8700&amp;text_color=ffffff&amp;bg_color=0D1117&amp;show_icons=true&amp;show=reviews,prs_merged,prs_merged_percentage" alt="Aden's GitHub stats" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AG9898&amp;theme=github-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=FF8700&amp;line=FF8700&amp;point=FFFFFF&amp;area=true&amp;area_color=FF8700&amp;custom_title=Contribution%20Flow" alt="Aden's GitHub contribution activity graph" />
+  <img width="42%" src="https://ghstats.dev/api/card?username=AG9898&amp;theme=github_dark&amp;border_color=30363d&amp;title_color=FF8700&amp;text_color=ffffff&amp;bg_color=0D1117&amp;show_icons=true&amp;show=reviews,prs_merged,prs_merged_percentage" alt="Aden's GitHub stats" />
+  <img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=AG9898&amp;theme=github-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=FF8700&amp;line=FF8700&amp;point=FFFFFF&amp;area=true&amp;area_color=FF8700&amp;height=220&amp;custom_title=Contribution%20Flow" alt="Aden's GitHub contribution activity graph" />
 </p>
 
 <br/>
