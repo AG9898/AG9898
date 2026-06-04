@@ -90,7 +90,13 @@ No newsletters. No algorithms. Just the work.
 ### Stats
 
 <p align="center">
-  <img width="52%" src="https://ghstats.dev/api/card?username=AG9898&amp;theme=github_dark&amp;border_color=30363d&amp;title_color=FF8700&amp;text_color=ffffff&amp;bg_color=0D1117&amp;show_icons=true&amp;show=reviews,prs_merged,prs_merged_percentage" alt="Aden's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AG9898&amp;theme=github_dark" alt="Aden's GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AG9898&amp;theme=github_dark" alt="Aden's GitHub stats" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AG9898&amp;theme=github_dark" alt="Top languages" />
+  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AG9898&amp;theme=github_dark&amp;utcOffset=-6" alt="Productive time" />
 </p>
 
 <picture>
