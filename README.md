@@ -90,13 +90,12 @@ No newsletters. No algorithms. Just the work.
 ### Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AG9898&amp;theme=github_dark" alt="Aden's GitHub profile summary" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=AG9898&amp;theme=dark&amp;background=0d1117&amp;border=222831&amp;stroke=222831&amp;ring=FF8700&amp;fire=FF8700&amp;currStreakNum=ffffff&amp;currStreakLabel=FF8700&amp;sideNums=ffffff&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;hide_border=false&amp;type=webp" alt="Aden's contribution streak" />
 </p>
 
 <p align="center">
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AG9898&amp;theme=github_dark" alt="Aden's GitHub stats" />
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AG9898&amp;theme=github_dark" alt="Top languages" />
-  <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AG9898&amp;theme=github_dark&amp;utcOffset=-6" alt="Productive time" />
 </p>
 
 <picture>
