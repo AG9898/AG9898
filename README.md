@@ -1,26 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3d1500,100:FF8700&height=220&section=header&text=Aden%20Guo&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Systems%20%E2%80%A2%20GIS%20%E2%80%A2%20Web%20%E2%80%A2%20Agentic%20CLI&descAlignY=62&descAlign=50&descSize=18&descColor=FF8700" width="100%" />
+<h1 align="center">
+  Aden Guo
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif" width="42" align="center" alt="cat" />
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=FF8700&center=true&vCenter=true&width=540&lines=Building+agentic+CLI+harnesses;GIS+%26+spatial+analysis;Full-stack+web+development;Systems+tooling+%26+automation" alt="Typing SVG" />
-</p>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td valign="middle" width="70%">
-      <p>
-        Builder at the intersection of <strong>maps</strong>, <strong>systems</strong>, and <strong>intelligent tooling</strong>.<br/>
-        I make things run fast, feel smooth, and think for themselves.
-      </p>
-    </td>
-    <td valign="middle" align="center" width="30%">
-      <img src="https://github.com/SP-XD/SP-XD/raw/main/images/hyperkitty.gif" width="90" alt="cat" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<p align="center">Systems &nbsp;•&nbsp; GIS &nbsp;•&nbsp; Web &nbsp;•&nbsp; Agentic CLI</p>
 
 ---
 
@@ -104,13 +87,3 @@ No newsletters. No algorithms. Just the work.
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AG9898&amp;theme=github_dark" alt="Aden's GitHub stats" />
   <img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AG9898&amp;theme=github_dark" alt="Top languages" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AG9898/AG9898/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AG9898/AG9898/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AG9898/AG9898/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8700,50:3d1500,100:0d1117&height=120&section=footer" width="100%" />
