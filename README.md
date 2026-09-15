@@ -1,4 +1,9 @@
-# Aden Guo
+<h1>
+  Aden Guo
+  <img src="assets/cat-wave.gif" width="44" height="28" alt="A little cat waving hello" />
+</h1>
+
+<!-- Cat: Bongocat_Wave by surmounter, https://myemotes.io/emotes/bongocat_wave (personal use). -->
 
 Systems · GIS · Web · Agentic CLI
 
